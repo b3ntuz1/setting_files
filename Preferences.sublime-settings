@@ -1,0 +1,16 @@
+{
+	"theme": "Default Dark.sublime-theme",
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage",
+	],
+	"font_size": 12,
+	"translate_tabs_to_spaces": true,
+	"auto_complete": true,
+	"auto_complete_triggers": [{"selector": "source.python", "characters": ".",}],
+	"auto_complete_selector": "-",
+	"show_definition": false,
+	"show_encoding": true,
+	"show_error_inline": false,
+}
