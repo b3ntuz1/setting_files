@@ -29,7 +29,7 @@
 		"Textile",
 		"Vintage",
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false,
 	"auto_complete": true,
