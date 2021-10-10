@@ -1,5 +1,5 @@
 {
-	"theme": "Default Dark.sublime-theme",
+	"theme": "Cobalt2.sublime-theme",
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -10,7 +10,6 @@
 		"Erlang",
 		"Graphviz",
 		"Groovy",
-		"Haskell",
 		"LaTeX",
 		"Lisp",
 		"Lua",
